@@ -56,7 +56,7 @@
         <profile>
             <id>coverage</id>
             <activation>
-                <activeByDefault>true</activeByDefault</groupId>
+               <activeByDefault>true</activeByDefault>
                         <artifactId>jacoco-maven-plugin</artifactId>
                         <executions>
                             <execution>
